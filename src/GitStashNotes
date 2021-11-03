@@ -1,0 +1,16 @@
+
+
+Git class 05:
+
+First Example:
+Q: What is stashing?
+A: Saving your codes to a temp area for later use.
+
+Q: Why do we need stashing?
+A: 1. You are working on a new test feature that you do not want
+   yet to be commits because you are not sure whether it will be working or not
+   2. In order to update your local repo in sync with the remote repo, without
+   discarding the changes in working directory.
+
+   ....................THE PROJECT..........................
+   Team Lead:
